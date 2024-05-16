@@ -15,3 +15,8 @@
 ## Summary (No Header Notation Below:)
 
 This repository contains all of the notes taken by [Scott Peloquin](https://github.com/Taomosquito) for the [Lighthouse Labs Web Development Bootcamp](https://www.lighthouselabs.ca/en/web-development).
+
+## Table of Contents:
+
+- [Week 1](/Week_1)
+  - [Day 1](/Week_1/Day_1)
